@@ -1,11 +1,7 @@
 # Site settings
 course_name: Data Mining
 
-course_description: |
-Data mining is the process of analyzing a data set to find insights.Once data is collected in the data warehouse, the data mining process begins and involves everything from cleaning the data of incomplete records to creating visualizations of findings.
-
-
-Data mining is usually associated with the analysis of the large data sets present in the fields of big data, machine learning and artificial intelligence.The process looks for patterns, anomalies and associations in the data with the goal of extracting value. For example, in the case of self-driving cars, data associations could help identify driving actions that are more likely to lead to accidents. The six core stages of the data mining process include anomaly detection, dependency modelling, clustering, classification, regression and report generation.
+course_description: Shahid Beheshti University Neural Network Course Repository, CS Dept.
 
 course_semester: "Spring 2021"
 
