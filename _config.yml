@@ -3,7 +3,7 @@ course_name: Data Mining
 
 course_description: Shahid Beheshti University Neural Network Course Repository, CS Dept.
 
-course_semester: "Spring 2021"
+course_semester: "Fall 2021"
 
 baseurl: "/CS-SBU-Neural_Networks/" # the subpath of your site, e.g. /blog/
 url: "https://sk7w4tch3r.github.io/" # the base hostname & protocol for your site
@@ -18,11 +18,6 @@ address: |
     Daneshjou Boulevard,
     Shahid Chamran Highway,
     Tehran, Iran
-
-# Set your Google Analytics tracking ID (set up yours at http://www.google.com/analytics/)
-google_analytics: G-81SM43E48E
-
-### Do not change the followings unless you know what you are doing ###
 
 # Build settings
 markdown: kramdown
