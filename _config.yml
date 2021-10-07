@@ -9,8 +9,8 @@ Data mining is usually associated with the analysis of the large data sets prese
 
 course_semester: "Spring 2021"
 
-baseurl: "/CS-SBU-DataMining-Msc-3992" # the subpath of your site, e.g. /blog/
-url: "http://alisharifi2000.github.io/" # the base hostname & protocol for your site
+baseurl: "/CS-SBU-Neural_Networks/" # the subpath of your site, e.g. /blog/
+url: "https://sk7w4tch3r.github.io/" # the base hostname & protocol for your site
 
 schoolname: "Shahid Beheshti University"
 schoolurl: "https://sbu.ac.ir"
